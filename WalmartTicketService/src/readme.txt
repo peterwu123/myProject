@@ -6,6 +6,7 @@
 *         By Peter Wu                  *
 ****************************************
 
+Assume We have 10*10 seats.
 The program implements three basic functions.
 ****
    1.Find the number of available seats
